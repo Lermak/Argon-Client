@@ -1,0 +1,13 @@
+E:\ArgonClient\ArgonClient\bin\Debug\ArgonClient.exe.config
+E:\ArgonClient\ArgonClient\bin\Debug\ArgonClient.exe
+E:\ArgonClient\ArgonClient\bin\Debug\ArgonClient.pdb
+E:\ArgonClient\ArgonClient\obj\Debug\ArgonClient.csproj.CoreCompileInputs.cache
+E:\ArgonClient\ArgonClient\obj\Debug\ArgonClient.exe
+E:\ArgonClient\ArgonClient\obj\Debug\ArgonClient.pdb
+E:\ArgonClient\ArgonClient\obj\Debug\ArgonClient.csprojResolveAssemblyReference.cache
+F:\ArgonClient\ArgonClient\bin\Debug\ArgonClient.exe.config
+F:\ArgonClient\ArgonClient\obj\Debug\ArgonClient.exe
+F:\ArgonClient\ArgonClient\obj\Debug\ArgonClient.pdb
+F:\ArgonClient\ArgonClient\bin\Debug\ArgonClient.exe
+F:\ArgonClient\ArgonClient\bin\Debug\ArgonClient.pdb
+F:\ArgonClient\ArgonClient\obj\Debug\ArgonClient.csproj.CoreCompileInputs.cache
